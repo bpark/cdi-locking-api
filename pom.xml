@@ -30,7 +30,6 @@
 
     <scm>
         <connection>scm:git:https://github.com/bpark/cdi-locking-api.git</connection>
-        <developerConnection>scm:git:git@github.com:bpark/cdi-locking-api.git</developerConnection>
         <url>https://github.com/bpark/cdi-locking-api</url>
         <tag>HEAD</tag>
     </scm>
