@@ -8,6 +8,10 @@
     <artifactId>cdi-locking-api</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
+    <name>CDI Locking Api</name>
+    <description>CDI Locking Interceptor implementation to use EJB3 like locking</description>
+    <url>https://github.com/bpark/cdi-locking-api</url>
+
     <properties>
         <cdi.api.version>2.0</cdi.api.version>
     </properties>
@@ -43,7 +47,6 @@
         <license>
             <name>The Apache Software License, Version 2.0</name>
             <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-            <distribution>repo</distribution>
         </license>
     </licenses>
 
